@@ -51,7 +51,7 @@ let names =
                     "first": "Jane",
                     "last": "Ramirez"
                 },
-            "Sex": "Female",
+            "Sex": "Male",
             "Born": 1876,
             "Died": "--",
             "Father":
